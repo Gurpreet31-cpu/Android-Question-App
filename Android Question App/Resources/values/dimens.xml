@@ -1,3 +1,13 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
+	<dimen name="medium_text_size">11sp</dimen>
+	<dimen name="margin">5dp</dimen>
+	<dimen name="margin_button">32px</dimen>
+	<dimen name="margin_top">10dp</dimen>
+	<dimen name="txt_size">30sp</dimen>
+	<dimen name="txt_size_small">13sp</dimen>
+	<dimen name="txt_size_m">24sp</dimen>
+    <dimen name="header_txt_size">18sp</dimen>
+	<dimen name="adapter_txt_size">20sp</dimen>
+	<dimen name="card_view_height">60dp</dimen>
 </resources>

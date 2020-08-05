@@ -1,3 +1,10 @@
 <resources>
   <string name="app_name">Android Question App</string>
+	<string name="txt1">Search for a subreddit</string>
+	<string name="txthint1">Search</string>
+	<string name="txt2">Search Results</string>
+	
+	<string name="txt3">No Results Found</string>
+	<string name="empty_toast">Search field is empty!, Please enter a keyword to search for a subreddit</string>
+	<string name="net_alert">Please check your internet connection</string>
 </resources>
